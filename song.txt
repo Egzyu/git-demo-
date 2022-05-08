@@ -1,2 +1,2 @@
 hello world
-And new word
+And new word.
